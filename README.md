@@ -1,3 +1,5 @@
+VirusTotal  - https://www.virustotal.com/gui/file/00837b8f306158c41cb1c667b6be960738b0968945da9622a3c99d39569ff57e?nocache=1
+DrWeb - https://online834.drweb.com/cache/?i=120f022f6555e590731bfa493f159b46
 
 TrainsFormerAI: Autonomous AI Suite with Neuroshift Engine
 TrainsFormerAI is a privacy-focused, standalone AI software suite designed to run locally on consumer hardware. Powered by the custom Neuroshift engine, it allows users to interact with Large Language Models (LLMs) completely offline, with zero censorship and dynamic local context injection.
