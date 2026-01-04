@@ -1,0 +1,5 @@
+# pip for correct code execution
+pip install transformers
+pip install torch
+pip install googletrans==4.0.0-rc1
+pip install tkinter
